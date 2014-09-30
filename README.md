@@ -47,6 +47,9 @@ Once you have downloaded and installed TCTM, the easiest way to get started is f
 3. SVM Classification per feature set
  Excute SVM Multiclass Classification
  edu.kaist.irlab.classify.tui.ExecuteSvmMulticlass
- --input-dir data/sampleforTutorial/FeatureSet_Wi100_Di200/*
+ --input-dir data/sampleforTutorial/FeatureSet_Wi100_Di200/* 
+ 
+See more : 
+https://docs.google.com/presentation/d/1emBVYeGFYF4F2Nbp9quiSrksXE-M-iNL8_-bCoiQzgo/edit#slide=id.p
  
  
