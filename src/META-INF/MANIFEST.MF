@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.8.2
+Created-By: 1.7.0_51-b13 (Oracle Corporation)
+Built-By: Seonggyu Lee
+Main-Class: edu.kaist.irlab.topics.tui.Text2VariedTopicModels
+Class-Path: /lib/bsh.jar /lib/grmm-deps.jar /lib/jdom-1.0.jar /lib/jgrapht-0.6.0.jar /lib/junit-4.5.jar /lib/jwnl-1.3.jar  /lib/mallet-deps.jar  /lib/mtj-0.9.9.jar /lib/openjgraph.jar /lib/trove-2.0.2.jar

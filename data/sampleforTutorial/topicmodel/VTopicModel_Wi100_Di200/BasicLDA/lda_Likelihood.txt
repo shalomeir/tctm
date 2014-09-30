@@ -1,0 +1,21 @@
+Iteration Num:	50	model log likelihood:	-563349.0954811218	
+Iteration Num:	100	model log likelihood:	-556049.9334418894	
+Iteration Num:	150	model log likelihood:	-551006.23691109	
+Iteration Num:	200	model log likelihood:	-549881.0827987588	
+Iteration Num:	250	model log likelihood:	-548656.8441450455	
+Iteration Num:	300	model log likelihood:	-548042.1625906707	
+Iteration Num:	350	model log likelihood:	-537060.1490888345	
+Iteration Num:	400	model log likelihood:	-535787.7387888998	
+Iteration Num:	450	model log likelihood:	-528736.3553118161	
+Iteration Num:	500	model log likelihood:	-526953.990499395	
+Iteration Num:	550	model log likelihood:	-522577.1763861648	
+Iteration Num:	600	model log likelihood:	-521557.35508151376	
+Iteration Num:	650	model log likelihood:	-519466.2127594723	
+Iteration Num:	700	model log likelihood:	-518371.58820625616	
+Iteration Num:	750	model log likelihood:	-517196.81057834165	
+Iteration Num:	800	model log likelihood:	-516241.7537099814	
+Iteration Num:	850	model log likelihood:	-515217.5541686708	
+Iteration Num:	900	model log likelihood:	-515088.47928674694	
+Iteration Num:	950	model log likelihood:	-514278.95851680706	
+Iteration Num:	1000	model log likelihood:	-512727.41401081526	
+

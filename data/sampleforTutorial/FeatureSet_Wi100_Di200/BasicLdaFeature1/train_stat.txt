@@ -1,0 +1,12 @@
+#This is a statistics file for Merged instance List file extrated same time. : data\sampleforTutorial\FeatureSet_Wi100_Di200\BasicLdaFeature1\train_Svmlight.txt
+numInstances : 131
+numClasses : 4
+numFeatures : 8203
+	Input SVM Vector No.0 numFeatures: 8153 from File: data/sampleforTutorial/FeatureSet_Wi100_Di200/TfBow1/train_Svmlight.txt
+	Input SVM Vector No.1 numFeatures: 50 from File: data/sampleforTutorial/topicmodel/VTopicModel_Wi100_Di200/BasicLDA/lda_TopicFeaturesPerDoc_Svmlight.txt
+#label statistics(Labelnum	Labelname	LabelInstancesNum)
+1	1	43
+2	2	26
+3	3	37
+4	4	25
+*Full Label Instatnce List Number : 131

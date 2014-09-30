@@ -1,0 +1,77 @@
+Reading training examples... (131 examples) done
+Training set properties: 50 features, 4 classes
+Iter 1: .........*(NumConst=1, SV=1, CEps=100.0000, QPEps=0.0000)
+Iter 2: *(NumConst=2, SV=2, CEps=24.8667, QPEps=0.0000)
+Iter 3: .........*(NumConst=3, SV=3, CEps=118.3585, QPEps=0.0000)
+Iter 4: *(NumConst=4, SV=4, CEps=42.5294, QPEps=0.0000)
+Iter 5: *(NumConst=5, SV=4, CEps=57.6601, QPEps=0.0000)
+Iter 6: *(NumConst=6, SV=6, CEps=43.8443, QPEps=4.4611)
+Iter 7: *(NumConst=7, SV=7, CEps=16.4373, QPEps=0.0000)
+Iter 8: .........*(NumConst=8, SV=6, CEps=37.6949, QPEps=7.7686)
+Iter 9: *(NumConst=9, SV=7, CEps=22.5648, QPEps=0.0000)
+Iter 10: *(NumConst=10, SV=6, CEps=32.2227, QPEps=0.0000)
+Iter 11: *(NumConst=11, SV=5, CEps=19.4551, QPEps=0.0000)
+Iter 12: *(NumConst=12, SV=6, CEps=15.4143, QPEps=0.0000)
+Iter 13: *(NumConst=13, SV=5, CEps=15.6929, QPEps=0.0000)
+Iter 14: *(NumConst=14, SV=6, CEps=7.7845, QPEps=0.0000)
+Iter 15: *(NumConst=15, SV=6, CEps=9.2047, QPEps=0.0000)
+Iter 16: *(NumConst=16, SV=7, CEps=5.1183, QPEps=0.0000)
+Iter 17: *(NumConst=17, SV=9, CEps=4.7902, QPEps=0.0000)
+Iter 18: *(NumConst=18, SV=8, CEps=6.1480, QPEps=0.3646)
+Iter 19: *(NumConst=19, SV=8, CEps=4.2656, QPEps=0.9070)
+Iter 20: .........*(NumConst=20, SV=9, CEps=5.9839, QPEps=1.6681)
+Iter 21: *(NumConst=21, SV=9, CEps=3.9594, QPEps=0.7730)
+Iter 22: *(NumConst=22, SV=10, CEps=5.2821, QPEps=1.9403)
+Iter 23: *(NumConst=23, SV=8, CEps=3.1058, QPEps=0.4579)
+Iter 24: *(NumConst=24, SV=7, CEps=2.1654, QPEps=0.0000)
+Iter 25: *(NumConst=25, SV=8, CEps=1.6652, QPEps=0.0000)
+Iter 26: *(NumConst=26, SV=9, CEps=1.9097, QPEps=0.2447)
+Iter 27: *(NumConst=27, SV=9, CEps=2.3029, QPEps=0.0000)
+Iter 28: *(NumConst=28, SV=10, CEps=1.4390, QPEps=0.0000)
+Iter 29: *(NumConst=29, SV=10, CEps=1.0942, QPEps=0.0557)
+Iter 30: *(NumConst=30, SV=11, CEps=1.0434, QPEps=0.3864)
+Iter 31: *(NumConst=31, SV=11, CEps=0.9105, QPEps=0.4309)
+Iter 32: *(NumConst=32, SV=10, CEps=1.1794, QPEps=0.0000)
+Iter 33: *(NumConst=33, SV=11, CEps=0.6614, QPEps=0.2145)
+Iter 34: *(NumConst=34, SV=12, CEps=0.6921, QPEps=0.2778)
+Iter 35: .........*(NumConst=35, SV=12, CEps=0.7471, QPEps=0.1679)
+Iter 36: *(NumConst=36, SV=12, CEps=0.5106, QPEps=0.2450)
+Iter 37: *(NumConst=37, SV=14, CEps=0.5575, QPEps=0.2198)
+Iter 38: *(NumConst=38, SV=15, CEps=0.7189, QPEps=0.1836)
+Iter 39: *(NumConst=39, SV=16, CEps=0.5257, QPEps=0.2158)
+Iter 40: *(NumConst=40, SV=17, CEps=0.5762, QPEps=0.2185)
+Iter 41: *(NumConst=41, SV=17, CEps=0.5872, QPEps=0.1527)
+Iter 42: *(NumConst=42, SV=16, CEps=0.5012, QPEps=0.2160)
+Iter 43: *(NumConst=43, SV=16, CEps=0.3945, QPEps=0.1682)
+Iter 44: *(NumConst=44, SV=17, CEps=0.2758, QPEps=0.1226)
+Iter 45: *(NumConst=45, SV=17, CEps=0.3399, QPEps=0.1155)
+Iter 46: *(NumConst=46, SV=18, CEps=0.2246, QPEps=0.0780)
+Iter 47: *(NumConst=47, SV=19, CEps=0.2628, QPEps=0.1096)
+Iter 48: *(NumConst=48, SV=19, CEps=0.3708, QPEps=0.0876)
+Iter 49: *(NumConst=49, SV=19, CEps=0.2995, QPEps=0.0827)
+Iter 50: *(NumConst=50, SV=19, CEps=0.2259, QPEps=0.1020)
+Iter 51: *(NumConst=51, SV=19, CEps=0.2296, QPEps=0.0947)
+Iter 52: *(NumConst=52, SV=20, CEps=0.1671, QPEps=0.0541)
+Iter 53: *(NumConst=53, SV=21, CEps=0.1135, QPEps=0.0476)
+Iter 54: *(NumConst=54, SV=22, CEps=0.1196, QPEps=0.0527)
+Iter 55: *(NumConst=55, SV=23, CEps=0.1006, QPEps=0.0498)
+Iter 56: *(NumConst=56, SV=24, CEps=0.1303, QPEps=0.0454)
+Iter 57: *(NumConst=55, SV=25, CEps=0.1061, QPEps=0.0501)
+Iter 58: .........(NumConst=55, SV=25, CEps=0.0962, QPEps=0.0501)
+Final epsilon on KKT-Conditions: 0.09617
+Upper bound on duality gap: 96.46881
+Dual objective value: dval=40244.72239
+Primal objective value: pval=40341.19121
+Total number of constraints in final working set: 55 (of 57)
+Number of iterations: 58
+Number of calls to 'find_most_violated_constraint': 786
+Number of SV: 25 
+Norm of weight vector: |w|=180.84219
+Value of slack variable (on working set): xi=23.90467
+Value of slack variable (global): xi=23.98924
+Norm of longest difference vector: ||Psi(x,y)-Psi(x,ybar)||=1.33168
+Runtime in cpu-seconds: 0.01
+Final number of constraints in cache: 477
+Compacting linear model...done
+Writing learned model...done
+

@@ -1,0 +1,2 @@
+#!/bin/sh
+svm_learn.exe -c 1000 D:\Users\user\IdeaProjects\Project_KAIST\KIST_TourCloud\mallet-2.0.7M\data\corpus\4news-forMyExp\tr70\VariedFeatureSet\TfBow1\train_Svmlight.txt D:\Users\user\IdeaProjects\Project_KAIST\KIST_TourCloud\mallet-2.0.7M\data\corpus\4news-forMyExp\tr70\VariedFeatureSet\TfBow1\svmmodel\train_svmmodel.txt

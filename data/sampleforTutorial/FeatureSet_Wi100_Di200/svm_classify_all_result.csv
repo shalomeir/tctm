@@ -1,0 +1,5 @@
+data\sampleforTutorial\FeatureSet_Wi100_Di200\BasicLdaFeature1,25.00,54,18,72
+data\sampleforTutorial\FeatureSet_Wi100_Di200\IdfBasicldaMix2,25.00,54,18,72
+data\sampleforTutorial\FeatureSet_Wi100_Di200\TfBow1,33.33,48,24,72
+data\sampleforTutorial\FeatureSet_Wi100_Di200\TfIdfBow2,23.61,55,17,72
+
