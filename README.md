@@ -24,6 +24,7 @@ Quick Start Guide
 -----------------
 
 Once you have downloaded and installed TCTM, the easiest way to get started is follow below step.
+
 0. Check directory architecture that we want to classify.
  -input
  \data\sampleforTutorial\train\* (each directory should be a class(=label) name)
@@ -33,7 +34,7 @@ Once you have downloaded and installed TCTM, the easiest way to get started is f
  Make a model from a whole text corpus.
  edu.kaist.irlab.topics.tui.Text2VariedTopicModels
  --input data/sampleforTutorial/total/*
- --output data/sampleforTutorial/topicmodel
+ --output-dir data/sampleforTutorial/topicmodel
  
 2. Feature Set Generation
  Make a varied feature set from train and test data and topic models.
