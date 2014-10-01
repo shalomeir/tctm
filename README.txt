@@ -12,3 +12,5 @@ SVM Classifier is a svmlight from http://svmlight.joachims.org/.
 More introduction is in README.md.
 And check this link :
 https://docs.google.com/presentation/d/1emBVYeGFYF4F2Nbp9quiSrksXE-M-iNL8_-bCoiQzgo/edit?usp=sharing
+
+The program will respond to Windows only until now.
