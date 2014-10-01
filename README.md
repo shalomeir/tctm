@@ -2,6 +2,7 @@ Text Classification using Topic Model (TCTM)
 ============================================
 
 Text Clasification using Topic Model (TCTM) is a Java-based package for text classification tool using topic model.
+This application respond to Windows only until now.
 
 TCTM is made based on MALLET toolkit. This use a SVM classifier from SVM multiclass provided by Thorsten Joachims.
 
