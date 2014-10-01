@@ -24,7 +24,6 @@ Quick Start Guide
 -----------------
 
 Once you have downloaded and installed TCTM, the easiest way to get started is follow below step.
-
 0. Check directory architecture that we want to classify.
  -input
  \data\sampleforTutorial\train\* (each directory should be a class(=label) name)
