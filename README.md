@@ -10,7 +10,7 @@ This application's input is a text documents set divided by training/test, and d
 First output is a topic model. Second one is bag of words(BOW) features. Third is joint with topic and BOW.
 Lastly, we provide a result by accuracy. 
 
- Sample input directory scheme : (see the data\sampleforTutorial\ )
+ Sample input directory scheme : (see the data\fourNewsGroups\ )
    - train\class1\documents (Each file are handled one data)
           \class2\documents
           \class3\documents
