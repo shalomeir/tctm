@@ -1,5 +1,6 @@
 Text Classification using Topic Model (TCTM)
 ============================================
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/shalomeir/tctm?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Text Clasification using Topic Model (TCTM) is a Java-based package for text classification tool using topic model.
 This application respond to Windows only until now.
